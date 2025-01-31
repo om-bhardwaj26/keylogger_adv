@@ -1,0 +1,43 @@
+
+--- Session Started ---
+[2025-01-31 02:18:28.850938] Mouse Moved to: (1411, 33)
+[2025-01-31 02:18:31.508560] Mouse Moved to: (1017, 586)
+[2025-01-31 02:18:33.766717] Mouse Moved to: (1365, 658)
+[2025-01-31 02:18:37.806594] Mouse Moved to: (1589, 616)
+[2025-01-31 02:18:40.274989] Special Key Pressed: Key.esc
+[2025-01-31 02:18:40.713968] Mouse Moved to: (1448, -37)
+[2025-01-31 02:18:45.882745] Mouse Moved to: (1532, 34)
+[2025-01-31 02:18:48.599430] Mouse Clicked at (1520, 35) with Button.left
+
+--- Session Started ---
+[2025-01-31 02:19:43.374225] Key Pressed: d
+[2025-01-31 02:20:02.776196] Key Pressed: s
+[2025-01-31 02:20:07.162953] Key Pressed: s
+[2025-01-31 02:20:08.103405] Key Pressed: s
+[2025-01-31 02:20:08.758152] Key Pressed: s
+[2025-01-31 02:20:09.321117] Key Pressed: s
+[2025-01-31 02:20:09.973909] Key Pressed: f
+[2025-01-31 02:20:11.566078] Key Pressed: d
+[2025-01-31 02:20:11.768570] Key Pressed: s
+[2025-01-31 02:20:12.426004] Key Pressed: s
+[2025-01-31 02:20:12.639123] Key Pressed: d
+[2025-01-31 02:20:12.879032] Key Pressed: s
+[2025-01-31 02:20:12.981103] Key Pressed: d
+[2025-01-31 02:20:15.397182] Key Pressed: None
+[2025-01-31 02:20:22.634006] Key Pressed: 7
+[2025-01-31 02:20:28.435919] Special Key Pressed: Key.num_lock
+[2025-01-31 02:20:30.489245] Special Key Pressed: Key.num_lock
+[2025-01-31 02:20:32.572128] Key Pressed: None
+[2025-01-31 02:20:36.944354] Key Pressed: 9
+[2025-01-31 02:20:39.239395] Special Key Pressed: Key.num_lock
+[2025-01-31 02:20:41.225716] Key Pressed: None
+[2025-01-31 02:20:42.830738] Key Pressed: None
+[2025-01-31 02:20:43.887637] Special Key Pressed: Key.num_lock
+[2025-01-31 02:20:44.534606] Key Pressed: None
+[2025-01-31 02:21:02.344254] Key Pressed: 7
+[2025-01-31 02:21:03.890547] Key Pressed: 6
+[2025-01-31 02:21:05.037444] Key Pressed: 7
+[2025-01-31 02:21:09.868516] Key Pressed: 6
+[2025-01-31 02:21:10.236274] Key Pressed: 7
+
+--- Session Started ---
